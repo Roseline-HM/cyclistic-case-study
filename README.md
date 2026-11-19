@@ -43,5 +43,6 @@ This case study analyzes historical trip data from **Cyclistic** (Divvy) to unde
 ## Deliverables & Reproducibility
 - **Jupyter / Colab Notebook:** [`Case Study - Cyclistic.ipynb`](./Case%20Study%20-%20Cyclistic.ipynb)
 - **Interactive Dashboard:** [Tableau Public — Cyclistic Case Study](https://public.tableau.com:9443/views/CaseStudy-Cyclistic_17950645437570/Trips_by_Zone?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Full Case Study Report:** [Case Study Cyclistic — Analysis Report](https://docs.google.com/document/d/15U-YmWd8-oh3TC9sV9PXQDI5YSZLyQPp5YBIY-Oguxk/edit)
 
 *Note: Raw and consolidated CSV datasets (`divvy_tripdata_clean.csv`) are excluded from this repository due to GitHub file size limits. Place the 13 monthly Divvy CSV files in your working directory and run the notebook to reproduce all tables and exports.*
